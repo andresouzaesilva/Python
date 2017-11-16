@@ -8,6 +8,10 @@
 
 [5] imprime string em vertical no sentido invertido
 
+[6] funções implementadas usando strings
+
+[7] funções implementadas usando strings_2
+
 Calculadora - Simples calculadora com interface
 
 Calculo de consumo - Faz calculo de consumo de combustivel por km com interface
